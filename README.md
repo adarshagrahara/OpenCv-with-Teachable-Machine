@@ -1,3 +1,1 @@
-# Tensorflow-and-JavaCV
-
-https://medium.com/@alexkn15/tensorflow-and-javacv-591c1b9443a3
+uses OpenCv and Teachable machine to detect objects with a custom model
